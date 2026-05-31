@@ -1,10 +1,9 @@
-
-body{background: url("../imagenes/imagenpx.jpg");
+body{background: url("../imagenes/imagenpxw.jpg");
 background-repeat: no-repeat;
 background-position:center;
 background-attachment:fixed;
 
-
+}
 
 div{width: 75%;
 background-color: rgb(255, 238, 0);
@@ -12,6 +11,8 @@ margin: 25px;
 padding: 10px;
 border: 10px solid#d42d2d;
 }
+
+
 
 
 a{
@@ -31,25 +32,46 @@ color: #050005;
 
 
 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 h1{
 
-color:purple;
+color:brown;
 font-style: 45px;
 font-family:'Narrow', Arial, sans-serif;
 }
 
 
 p{
-color:rgb(247, 0, 0);
+color:rgb(34, 37, 37);
 font-style: 45px;
 font-family:'Narrow', Arial, sans-serif;
-
-
-
 }
+
+
+
+
+
+
+
 
 
 img{
