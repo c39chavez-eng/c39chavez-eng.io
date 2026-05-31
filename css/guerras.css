@@ -1,0 +1,60 @@
+body{background: url("../imagenes/imagenk.jpg");
+background-repeat: no-repeat;
+background-position:center;
+background-attachment:fixed;
+}
+
+div{width: 75%;
+background-color: rgb(255, 238, 0);
+margin: 25px;
+padding: 10px;
+border: 10px solid#d42d2d;
+}
+
+a{
+font-size: 30px;
+text-decoration: none;
+margin: 20px;
+background-color: chartreuse;
+padding: 20px;
+display: inline-block;
+color: rgb(0, 26, 255);
+box-shadow: 5px 5px 5px 5px #d42d2d;}
+
+a:hover{box-shadow: 4px 4px 4px 4px;
+           background-color: #F527EE;
+color: #050005;
+}
+
+
+
+
+
+
+
+
+h1{
+
+color:rgb(81, 255, 0);
+font-style: 45px;
+font-family:'Narrow', Arial, sans-serif;
+}
+
+
+p{
+color:rgb(8, 182, 250);
+font-style: 45px;
+font-family:'Narrow', Arial, sans-serif;
+} 
+
+
+
+
+img{
+
+width:350px;
+height: 250px;
+margin: 250px;
+border: radius 50px;
+border:10px solid #db6313
+}
